@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Jayne - a software engineer who enjoys making and breaking things.
+
 <!--
 **J4Numbers/j4numbers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

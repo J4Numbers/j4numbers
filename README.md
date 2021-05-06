@@ -2,6 +2,8 @@
 
 I'm Jayne - a software engineer who enjoys making and breaking things.
 
+My key skills are in higher order languages such as Java, JavaScript, Python, and other assorted things.
+
 <!--
 **J4Numbers/j4numbers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
